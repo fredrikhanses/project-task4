@@ -1,0 +1,14 @@
+This is what we sent:
+
+    GET /ask?host=localhost&port=10000 HTTP/1.1
+    Host: localhost
+    
+
+This is what we expected to see:
+
+    The time is Tue Feb 27 00:09:38 2018
+
+But this is what we saw:
+
+    null
+    

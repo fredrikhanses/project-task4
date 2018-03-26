@@ -1,0 +1,6 @@
+Expected "The time is Tue Feb 13 09:25:49 2018
+8102 94:52:90 31 beF euT si emit ehT
+       001122345899::FTTbeeeehiimstu
+THE TIME IS TUE FEB 13 09:25:49 2018
+the time is tue feb 13 09:25:49 2018" but saw the following:
+java.net.SocketException: Connection reset

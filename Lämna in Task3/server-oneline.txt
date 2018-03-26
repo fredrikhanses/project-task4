@@ -1,0 +1,9 @@
+$ java HTTPAsk 8888
+GET /ask?host=localhost&port=10000 HTTP/1.1
+6
+localhost
+10000
+HTTP/1.1 200 OK
+
+null
+

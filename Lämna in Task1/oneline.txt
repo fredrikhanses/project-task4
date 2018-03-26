@@ -1,0 +1,2 @@
+Expected "The time is Tue Feb 13 09:25:48 2018" but saw the following:
+java.net.SocketException: Broken pipe
